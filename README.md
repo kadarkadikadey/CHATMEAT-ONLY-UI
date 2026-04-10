@@ -70,6 +70,3 @@ https://github.com/user-attachments/assets/890e561b-f804-427e-912d-8c94ec6e817f
 
 ## 📜 License
 Distributed under the MIT License.
-
----
-*Created with ❤️ by your GitHub Profile*
