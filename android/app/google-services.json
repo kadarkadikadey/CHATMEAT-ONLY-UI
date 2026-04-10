@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206630277430",
+    "project_id": "chatmeat",
+    "storage_bucket": "chatmeat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206630277430:android:00feab4e44f095c6e0a397",
+        "android_client_info": {
+          "package_name": "com.example.chatmeat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXGTPvQhAeiN6XBUgXjtulRsLrihRpiWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
